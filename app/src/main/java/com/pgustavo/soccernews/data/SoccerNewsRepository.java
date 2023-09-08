@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class SoccerNewsRepository {
 
-    private static final String REMOTE_API_URL = "https://digitalinnovationone.github.io/soccer-news-api/";
+    private static final String REMOTE_API_URL = "https://pgustavo73.github.io/-soccer-news-api/";
     private static final String LOCAL_DB_NAME = "soccer-news";
 
     private SoccerNewsApi remoteApi;
